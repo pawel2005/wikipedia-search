@@ -7,6 +7,7 @@ If English isn't your main language, it's easy to change the language Wikipedia 
 __Wikipedia is a trademark of the Wikimedia Foundation.__
 
 ---------------------------------------------------------
+__New in Wikipedia Search 8.1:__
 __New in Wikipedia Search 8.0:__
 * Updated settings page with auto-save.
 * Added support for settings shortcut to Opera.
